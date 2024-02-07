@@ -25,10 +25,10 @@ export const RESUME_DATA = {
   location: "New York City, NY",
   locationLink: "https://maps.app.goo.gl/uGiW1cCBTSyxEv4B9",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Student at Duke University pursuing a B.S in Computer Science and Certificate in Energy & the Environment",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://ibb.co/L0gfzFy",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "kothari.s.aryan@gmail.com",
