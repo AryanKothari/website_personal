@@ -17,13 +17,13 @@ import {
   TastyCloudLogo,
   YearProgressLogo,
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { GitHubIcon, LinkedInIcon} from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Aryan Kothari",
   initials: "AK",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  location: "New York City, NY",
+  locationLink: "https://maps.app.goo.gl/uGiW1cCBTSyxEv4B9",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
@@ -31,8 +31,8 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "kothari.s.aryan@gmail.com",
+    tel: "+16468843359",
     social: [
       {
         name: "GitHub",
