@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Student at Duke University pursuing a B.S in Computer Science and Certificate in Energy & the Environment",
   summary:
-    "Senior at Duke majoring in Computer Science with a certificate in Energy and the Environment. I'm passionate about accelerating climate solutions through scalable tech and entrepreneurship.",
+    "Senior at Duke University, pursuing a Bachelor of Science in Computer Science alongside an Energy & the Environment Certificate. Passionate about catalyzing climate solutions through scalable technology and entrepreneurship. With 3 years of work experience at YC-backed startups and over 2 years of Product Management expertise, I'm committed to crafting products that combat the climate crisis. Beyond my professional pursuits, you can catch me delving into artificial intelligence, acting, meditation, and biographical books.",
   avatarUrl: "https://avatars.githubusercontent.com/u/AryanKothari",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
