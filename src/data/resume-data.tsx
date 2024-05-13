@@ -100,7 +100,7 @@ export const RESUME_DATA = {
     {
       title: "OOGASalad",
       techStack: [
-        "Coding",
+        "Technical",
         "JavaFX",
         "Agile Programming",
         "OpenJFX",
@@ -114,25 +114,25 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "DukeDines",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "DELP",
+      techStack: ["Technical", "Swift", "Figma", "CoreData"],
       description:
-        "Browser extension that records everything happening in a web application",
+        "iOS app allowing students to read and review Duke's dining options",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "youtube.com/watch?v=s02Sedci6tg",
+        href: "https://www.youtube.com/watch?v=s02Sedci6tg",
       },
     },
     {
       title: "Circular Carbon Network Report",
-      techStack: ["Side Project", "Next.js", "MDX"],
+      techStack: ["Energy & Climate", "Data Analytics", "Tableau", "Pitchbook", "Web Scraping"],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "Research Fellow for annual XPRIZE climate report, synthesizing leading players and market trends",
       logo: JarockiMeLogo,
       link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
+        label: "circularcarbon.org/wp-content/uploads/2023/03/CCN-2022-MarketReport.pdf",
+        href: "https://circularcarbon.org/wp-content/uploads/2023/03/CCN-2022-MarketReport.pdf",
       },
     },
     {
@@ -168,7 +168,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Parabol",
+      title: "Solar Weather Predictor",
       techStack: [
         "Full Stack Developer",
         "TypeScript",
@@ -185,7 +185,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Evercast",
+      title: "Rise of Tidal Energy",
       techStack: [
         "Lead Frontend Developer",
 
