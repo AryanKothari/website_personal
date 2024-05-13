@@ -98,7 +98,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "OOGASalad",
       techStack: [
         "Side Project",
         "TypeScript",
@@ -115,7 +115,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Monito",
+      title: "DukeDines",
       techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
       description:
         "Browser extension that records everything happening in a web application",
@@ -126,7 +126,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Jarocki.me",
+      title: "Circular Carbon Network Report",
       techStack: ["Side Project", "Next.js", "MDX"],
       description:
         "My personal website and blog. Built with Next.js and Notion API",
@@ -137,7 +137,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Minimal",
+      title: "Duke Energy Club Database",
       techStack: ["Side Project", "Next.js", "Puppeteer"],
       description:
         "Minimalist calendars, habit trackers and planners generator",
@@ -148,7 +148,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Barepapers",
+      title: "MeToo Monlogues",
       techStack: ["Side Project", "Next.js", "Puppeteer"],
       description:
         "Generates beautiful wallpapers using random shapes and gradients",
