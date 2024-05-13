@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Student at Duke University pursuing a B.S in Computer Science and Certificate in Energy & the Environment",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "Senior at Duke majoring in Computer Science with a certificate in Energy and the Environment. I'm passionate about accelerating climate solutions through scalable tech and entrepreneurship.",
   avatarUrl: "https://avatars.githubusercontent.com/u/AryanKothari",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
