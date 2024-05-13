@@ -100,18 +100,17 @@ export const RESUME_DATA = {
     {
       title: "OOGASalad",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Coding",
+        "JavaFX",
+        "Agile Programming",
+        "OpenJFX",
+        "MVC",
+        "API",
       ],
-      description: "A platform to build and grow your online business",
-      logo: ConsultlyLogo,
+      description: "Java program: No-code 2D game designer with visual tools.",
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "github.com/AryanKothari/OOGASalad",
+        href: "https://github.com/AryanKothari/OOGASalad",
       },
     },
     {
@@ -159,7 +158,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Year progress",
+      title: "Energy Terminal",
       techStack: ["Side Project", "TypeScript", "Next.js"],
       description: "Tracks current year progress and displays a countdown",
       logo: YearProgressLogo,
