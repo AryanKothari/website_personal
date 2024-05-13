@@ -60,7 +60,6 @@ export const RESUME_DATA = {
       link: "https://appian.com/",
       badges: [],
       title: "Product Manager Intern",
-      logo: ParabolLogo,
       start: "June",
       end: "August '24",
       description:
@@ -71,7 +70,6 @@ export const RESUME_DATA = {
       link: "https://raptormaps.com/",
       badges: [],
       title: "Product Manager Intern",
-      logo: ClevertechLogo,
       start: "May",
       end: "August '23",
       description:
@@ -82,11 +80,20 @@ export const RESUME_DATA = {
       link: "https://www.alga.bio/",
       badges: [],
       title: "Generalist Intern",
-      logo: JojoMobileLogo,
       start: "June",
       end: "August '22",
       description:
         "Secured 12,000 carbon credits on the VCM through partnerships with more than 10 carbon credit marketplaces. Tracked methane emissions from affiliated commercial feedlots, effectively quantifying 2.5k tons in methane reductions. Created comprehensive reports on the US dairy and beef industry for internal stakeholders, with focus on GHG emissions.",
+    },
+    {
+      company: "Flockjay (YC W19)",
+      link: "https://flockjay.com/",
+      badges: [],
+      title: "Operations & Growth Intern",
+      start: "October '21",
+      end: "February '22",
+      description:
+        "Organized 'Sell with Serena', an initiative with Serena Williams to generate $50M in generational wealth for women in tech. Spearheaded public relation endeavors, resulting in announcement of the company's $15 million Series A funding round. Conducted research on over 20 Income Share Agreement (ISA) providers to pinpoint most cost-effective partnership.",
     },
   ],
   skills: [
@@ -128,7 +135,7 @@ export const RESUME_DATA = {
       title: "CCN 2022 Report",
       techStack: ["Energy & Climate", "Data Analytics", "Tableau", "Pitchbook", "Web Scraping"],
       description:
-        "Research Fellow for annual XPRIZE climate report, synthesizing leading players and market trends",
+        "Research Fellow for annual XPRIZE climate report, synthesizing market trends",
       logo: JarockiMeLogo,
       link: {
         label: "circularcarbon.org/wp-content/uploads/2023/03/CCN-2022-MarketReport.pdf",
