@@ -52,12 +52,11 @@ export const RESUME_DATA = {
       degree: "Bachelor's Degree in Computer Science, Energy & the Environment Certificate",
       start: "2021",
       end: "2025",
-      GPA: "3.89/4.00",
     },
   ],
   work: [
     {
-      company: "Appian",
+      company: "Appian Corporation",
       link: "https://appian.com/",
       badges: [],
       title: "Product Manager Intern",
@@ -92,12 +91,10 @@ export const RESUME_DATA = {
   ],
   skills: [
     "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "R",
+    "Python",
+    "noSQL",
+    "MongoDB",
   ],
   projects: [
     {
