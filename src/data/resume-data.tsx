@@ -183,10 +183,9 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Rise of Tidal Energy",
+      title: "On the Rise of Tidal Energy",
       techStack: [
         "Lead Frontend Developer",
-
         "TypeScript",
         "React",
         "Node.js",
@@ -198,6 +197,16 @@ export const RESUME_DATA = {
       link: {
         label: "evercast.us",
         href: "https://www.evercast.us/",
+      },
+    },
+    {
+      title: "DukeConversations Ambassador",
+      techStack: ["Leadership", "Event Planning", "Moderating"],
+      description:
+        "Hosting lunches between students and Duke faculty",
+      link: {
+        label: "www.linkedin.com/posts/shep-moyle-13b37a43_dukeconversations-activity-7182073365132644354-f3XM?utm_source=combined_share_message&utm_medium=member_desktop",
+        href: "https://www.linkedin.com/posts/shep-moyle-13b37a43_dukeconversations-activity-7182073365132644354-f3XM?utm_source=combined_share_message&utm_medium=member_desktop",
       },
     },
     {
