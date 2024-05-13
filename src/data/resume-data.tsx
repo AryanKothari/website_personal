@@ -64,7 +64,7 @@ export const RESUME_DATA = {
       start: "June",
       end: "August '24",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "TBD",
     },
     {
       company: "Raptor Maps (YC S16)",
@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       start: "May",
       end: "August '23",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Managed full integration of the solar financial tracker into the Raptor app, resulting in a 25% increase in user engagement. Pioneered the expansion into the secondary solar market, resulting in launch of directory featuring 30+ solar vendors. Collaborated with cross-functional teams and engaged with five key customers to enhance OST and product roadmap.",
     },
     {
       company: "Alga Biosciences (YC W22)",
@@ -86,7 +86,7 @@ export const RESUME_DATA = {
       start: "June",
       end: "August '22",
       description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+        "Secured 12,000 carbon credits on the VCM through partnerships with more than 10 carbon credit marketplaces. Tracked methane emissions from affiliated commercial feedlots, effectively quantifying 2.5k tons in methane reductions. Created comprehensive reports on the US dairy and beef industry for internal stakeholders, with focus on GHG emissions.",
     },
   ],
   skills: [
