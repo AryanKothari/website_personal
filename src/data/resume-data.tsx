@@ -23,7 +23,7 @@ export const RESUME_DATA = {
   name: "Aryan Kothari",
   initials: "AK",
   location: "Durham, NC",
-  locationLink: "https://maps.app.goo.gl/uGiW1cCBTSyxEv4B9",
+  locationLink: "https://maps.app.goo.gl/zT6qvs62hYsxkyfCA",
   about:
     "Student at Duke University pursuing a B.S in Computer Science and Certificate in Energy & the Environment",
   summary:
@@ -52,6 +52,7 @@ export const RESUME_DATA = {
       degree: "Bachelor's Degree in Computer Science, Energy & the Environment Certificate",
       start: "2021",
       end: "2025",
+      GPA: "3.89/4.00",
     },
   ],
   work: [
