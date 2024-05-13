@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Student at Duke University pursuing a B.S in Computer Science and Certificate in Energy & the Environment",
   summary:
-    "Senior at Duke University, pursuing a Bachelor of Science in Computer Science alongside an Energy & the Environment Certificate. Passionate about catalyzing climate solutions through scalable technology and entrepreneurship. With 3 years of work experience at YC-backed startups and over 2 years of Product Management expertise, I'm committed to crafting products that combat the climate crisis. Beyond my professional pursuits, you can catch me delving into artificial intelligence, acting, meditation, and biographical books.",
+    "Senior at Duke University, pursuing a Bachelor of Science in Computer Science alongside an Energy & the Environment Certificate. Passionate about catalyzing climate solutions through scalable technology and entrepreneurship. With 3 years of work experience at YC-backed startups and over 2 years of Product Management expertise, I strive to craft products that combat the climate crisis. Beyond my professional pursuits, you can catch me delving into artificial intelligence, acting, meditation, and biographical books.",
   avatarUrl: "https://avatars.githubusercontent.com/u/20924784?v=4",
   personalWebsiteUrl: "https://www.aryankothari.com",
   contact: {
@@ -102,6 +102,12 @@ export const RESUME_DATA = {
     "Python",
     "noSQL",
     "MongoDB",
+    "Figma",
+    "Mixpanel",
+    "Swift",
+    "Product Roadmapping",
+    "Public Speaking",
+    "Stakeholder Management",
   ],
   projects: [
     {
@@ -125,10 +131,26 @@ export const RESUME_DATA = {
       techStack: ["Technical", "Swift", "Figma", "CoreData"],
       description:
         "iOS app allowing students to read and review Duke's dining options",
-      logo: MonitoLogo,
       link: {
         label: "youtube.com/watch?v=s02Sedci6tg",
         href: "https://www.youtube.com/watch?v=s02Sedci6tg",
+      },
+    },
+    {
+      title: "Machine Learning Models for Energy Prediction",
+      techStack: [
+        "Machine Learning",
+        "Data Preprocessing",
+        "Hyperparameter Tuning",
+        "Python",
+        "KNN",
+        "SVMs"
+      ],
+      description:
+        "Tuning and evaluating K-Nearest Neighbors and Random Forest models to predict energy output",
+      link: {
+        label: "colab.research.google.com/drive/1CXppwpa8EH-eLRdT36qblUjV1d_oum1h?usp=sharing",
+        href: "https://colab.research.google.com/drive/1CXppwpa8EH-eLRdT36qblUjV1d_oum1h?usp=sharing",
       },
     },
     {
@@ -136,59 +158,28 @@ export const RESUME_DATA = {
       techStack: ["Energy & Climate", "Data Analytics", "Tableau", "Pitchbook", "Web Scraping"],
       description:
         "Research Fellow for annual XPRIZE climate report, synthesizing market trends",
-      logo: JarockiMeLogo,
       link: {
         label: "circularcarbon.org/wp-content/uploads/2023/03/CCN-2022-MarketReport.pdf",
         href: "https://circularcarbon.org/wp-content/uploads/2023/03/CCN-2022-MarketReport.pdf",
       },
     },
     {
-      title: "Duke Energy Club Database",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "Duke Energy Club",
+      techStack: ["Energy & Climate", "Leadership", "Alumni Relations"],
       description:
         "Minimalist calendars, habit trackers and planners generator",
-      logo: Minimal,
       link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
-      },
-    },
-    {
-      title: "MeToo Monlogues",
-      techStack: ["Theatre", "Public Speaking", "Campus Engagement"],
-      description:
-        "Performed anonymously submitted story to Duke student body",
-      logo: BarepapersLogo,
-      link: {
-        label: "www.youtube.com/watch?v=rTdxZZLBwx0&t=145s",
-        href: "https://www.youtube.com/watch?v=rTdxZZLBwx0&t=145s",
+        label: "dukeundergradenergyclub.org/",
+        href: "https://www.dukeundergradenergyclub.org/",
       },
     },
     {
       title: "Energy Terminal",
       techStack: ["Energy & Climate", "Podcast", "Data Analytics", "Growth"],
-      description: "Tracks current year progress and displays a countdown",
-      logo: YearProgressLogo,
+      description: "Awarded the 2022 Duke Clean Energy Prize forenergy community and media platform.",
       link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
-      },
-    },
-    {
-      title: "Solar Weather Predictor",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
-      logo: ParabolLogo,
-      link: {
-        label: "github.com",
-        href: "https://parabol.co/",
+        label: "nicholasinstitute.duke.edu/articles/duke-undergraduate-team-wins-2022-clean-energy-prize-support-energy-terminal-media",
+        href: "https://nicholasinstitute.duke.edu/articles/duke-undergraduate-team-wins-2022-clean-energy-prize-support-energy-terminal-media",
       },
     },
     {
@@ -209,6 +200,15 @@ export const RESUME_DATA = {
         href: "https://www.evercast.us/",
       },
     },
-    
+    {
+      title: "MeToo Monlogues",
+      techStack: ["Theatre", "Public Speaking", "Campus Engagement"],
+      description:
+        "Performed anonymously submitted story to Duke student body",
+      link: {
+        label: "www.youtube.com/watch?v=rTdxZZLBwx0&t=145s",
+        href: "https://www.youtube.com/watch?v=rTdxZZLBwx0&t=145s",
+      },
+    },
   ],
 } as const;
