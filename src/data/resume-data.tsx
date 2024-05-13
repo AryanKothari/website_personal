@@ -125,7 +125,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Circular Carbon Network Report",
+      title: "CCN 2022 Report",
       techStack: ["Energy & Climate", "Data Analytics", "Tableau", "Pitchbook", "Web Scraping"],
       description:
         "Research Fellow for annual XPRIZE climate report, synthesizing leading players and market trends",
@@ -148,18 +148,18 @@ export const RESUME_DATA = {
     },
     {
       title: "MeToo Monlogues",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      techStack: ["Theatre", "Public Speaking", "Campus Engagement"],
       description:
-        "Generates beautiful wallpapers using random shapes and gradients",
+        "Performed anonymously submitted story to Duke student body",
       logo: BarepapersLogo,
       link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
+        label: "www.youtube.com/watch?v=rTdxZZLBwx0&t=145s",
+        href: "https://www.youtube.com/watch?v=rTdxZZLBwx0&t=145s",
       },
     },
     {
       title: "Energy Terminal",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
+      techStack: ["Energy & Climate", "Podcast", "Data Analytics", "Growth"],
       description: "Tracks current year progress and displays a countdown",
       logo: YearProgressLogo,
       link: {
