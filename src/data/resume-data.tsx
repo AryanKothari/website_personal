@@ -164,10 +164,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Duke Energy Club",
+      title: "Duke Energy & Climate Club",
       techStack: ["Energy & Climate", "Leadership", "Alumni Relations"],
       description:
-        "Minimalist calendars, habit trackers and planners generator",
+        "Responsible for alumni relations as part of the DUECC",
       link: {
         label: "dukeundergradenergyclub.org/",
         href: "https://www.dukeundergradenergyclub.org/",
@@ -176,27 +176,10 @@ export const RESUME_DATA = {
     {
       title: "Energy Terminal",
       techStack: ["Energy & Climate", "Podcast", "Data Analytics", "Growth"],
-      description: "Awarded the 2022 Duke Clean Energy Prize forenergy community and media platform.",
+      description: "Awarded the 2022 Duke Clean Energy Prize for energy community and media platform.",
       link: {
         label: "nicholasinstitute.duke.edu/articles/duke-undergraduate-team-wins-2022-clean-energy-prize-support-energy-terminal-media",
         href: "https://nicholasinstitute.duke.edu/articles/duke-undergraduate-team-wins-2022-clean-energy-prize-support-energy-terminal-media",
-      },
-    },
-    {
-      title: "On the Rise of Tidal Energy",
-      techStack: [
-        "Lead Frontend Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
-      logo: EvercastLogo,
-      link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
       },
     },
     {
