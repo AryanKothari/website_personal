@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       badges: [],
       title: "Product Manager Intern",
       logo: ParabolLogo,
-      start: "June '24",
+      start: "June",
       end: "August '24",
       description:
         "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
@@ -72,7 +72,7 @@ export const RESUME_DATA = {
       badges: [],
       title: "Product Manager Intern",
       logo: ClevertechLogo,
-      start: "May '23",
+      start: "May",
       end: "August '23",
       description:
         "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
@@ -83,7 +83,7 @@ export const RESUME_DATA = {
       badges: [],
       title: "Generalist Intern",
       logo: JojoMobileLogo,
-      start: "June '22",
+      start: "June",
       end: "August '22",
       description:
         "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
