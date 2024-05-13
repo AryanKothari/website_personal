@@ -89,7 +89,7 @@ export const RESUME_DATA = {
       company: "Flockjay (YC W19)",
       link: "https://flockjay.com/",
       badges: [],
-      title: "Operations & Growth Intern",
+      title: "Operations & Growth Intern (Gap Year)",
       start: "October '21",
       end: "February '22",
       description:
