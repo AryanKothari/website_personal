@@ -22,14 +22,14 @@ import { GitHubIcon, LinkedInIcon} from "@/components/icons";
 export const RESUME_DATA = {
   name: "Aryan Kothari",
   initials: "AK",
-  location: "New York City, NY",
+  location: "Durham, NC",
   locationLink: "https://maps.app.goo.gl/uGiW1cCBTSyxEv4B9",
   about:
     "Student at Duke University pursuing a B.S in Computer Science and Certificate in Energy & the Environment",
   summary:
     "Senior at Duke University, pursuing a Bachelor of Science in Computer Science alongside an Energy & the Environment Certificate. Passionate about catalyzing climate solutions through scalable technology and entrepreneurship. With 3 years of work experience at YC-backed startups and over 2 years of Product Management expertise, I'm committed to crafting products that combat the climate crisis. Beyond my professional pursuits, you can catch me delving into artificial intelligence, acting, meditation, and biographical books.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/AryanKothari",
-  personalWebsiteUrl: "https://jarocki.me",
+  avatarUrl: "https://avatars.githubusercontent.com/u/20924784?v=4",
+  personalWebsiteUrl: "https://www.aryankothari.com",
   contact: {
     email: "kothari.s.aryan@gmail.com",
     tel: "+16468843359",
@@ -48,10 +48,10 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Duke University",
+      degree: "Bachelor's Degree in Computer Science, Energy & the Environment Certificate",
+      start: "2021",
+      end: "2025",
     },
   ],
   work: [
