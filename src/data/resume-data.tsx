@@ -63,7 +63,7 @@ export const RESUME_DATA = {
       start: "June",
       end: "August '24",
       description:
-        "In process.",
+        "In progress.",
     },
     {
       company: "Raptor Maps (YC S16)",
@@ -100,7 +100,7 @@ export const RESUME_DATA = {
     "JavaScript",
     "R",
     "Python",
-    "noSQL",
+    "SQL",
     "MongoDB",
     "Figma",
     "Mixpanel",
@@ -137,14 +137,12 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Machine Learning Models for Energy Prediction",
+      title: "Energy Prediction Models",
       techStack: [
         "Machine Learning",
         "Data Preprocessing",
         "Hyperparameter Tuning",
         "Python",
-        "KNN",
-        "SVMs"
       ],
       description:
         "Tuning and evaluating K-Nearest Neighbors and Random Forest models to predict energy output",
@@ -183,7 +181,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "DukeConversations Ambassador",
+      title: "Duke Conversations Ambassador",
       techStack: ["Leadership", "Event Planning", "Moderating"],
       description:
         "Hosting lunches between students and Duke faculty",
@@ -196,7 +194,7 @@ export const RESUME_DATA = {
       title: "MeToo Monlogues",
       techStack: ["Theatre", "Public Speaking", "Campus Engagement"],
       description:
-        "Performed anonymously submitted story to Duke student body",
+        "Performed an anonymously submitted story to Duke student body",
       link: {
         label: "www.youtube.com/watch?v=rTdxZZLBwx0&t=145s",
         href: "https://www.youtube.com/watch?v=rTdxZZLBwx0&t=145s",
