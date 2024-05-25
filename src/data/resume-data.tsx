@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Durham, NC",
   locationLink: "https://maps.app.goo.gl/zT6qvs62hYsxkyfCA",
   about:
-    "student @ duke studying cs + energy",
+    "Student @ Duke studying CS + Energy",
   summary:
     "Senior at Duke University, pursuing a Bachelor of Science in Computer Science alongside an Energy & the Environment Certificate. Passionate about catalyzing climate solutions through scalable technology and entrepreneurship. With 3 years of work experience at YC-backed startups and over 2 years of Product Management expertise, I strive to craft products that combat the climate crisis. Beyond my professional pursuits, you can catch me delving into artificial intelligence, acting, meditation, and biographical books.",
   avatarUrl: "https://avatars.githubusercontent.com/u/20924784?v=4",
